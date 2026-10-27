@@ -1,0 +1,50 @@
+CampusTorrent sample study material
+===================================
+This small text file is a stand-in for lecture notes. Run:
+
+  java -cp target/classes edu.campustorrent.pieces.MakeManifest --file samples/study_notes.txt --piece-size-kb 1 --out demo-work/notes.manifest
+
+to see how a file is turned into hashed pieces. The demo scripts generate a larger pseudo-random
+file so that downloads take long enough to observe.
+
+Topics: sockets, TCP framing, SHA-256 integrity checking, rarest-first piece selection, choking.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
+Line of padding text to make this file span several 1 KiB pieces.
